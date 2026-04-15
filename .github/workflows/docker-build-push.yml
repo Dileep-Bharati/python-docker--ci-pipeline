@@ -6,7 +6,7 @@ on:
       - "**"
 
 env:
-  IMAGE_NAME: dileepbharati/python-docker--ci-pipeline
+  IMAGE_NAME: dileepbharati/python-docker-ci-pipeline
 
 jobs:
   build-and-push:
